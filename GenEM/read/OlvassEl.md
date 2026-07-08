@@ -268,4 +268,15 @@ Ezért különösen fontos:
 A program célja személyes önismeret és ismeretterjesztés.
 Nem orvosi diagnózis.
 
+---
+
+## ❤️ Támogatás / Szponzoráció
+
+Ha hasznosnak találod a GenEM rendszert, és szeretnéd támogatni a fejlesztését, lehetőséged van szponzorrá válni.
+
+A támogatásod segít abban, hogy tovább fejlesszem a programot, új funkciókat adjak hozzá, és folyamatosan naprakészen tartsam a rendszert.
+
+👉 A GitHub Sponsors oldal hamarosan elérhető lesz.
+
+Köszönöm, hogy fontolóra veszed a projekt támogatását!
 
