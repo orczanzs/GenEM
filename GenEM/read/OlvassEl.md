@@ -312,9 +312,24 @@ Használat:
 2. Kattints duplán a `genem.bat` fájlra.
 3. A program azonnal elindul.
 
-Ez a módszer azoknak kényelmes, akik nem szeretnének parancsikont használni.
+### 4. Személyes DNA fájlok használata
+A személyes **_raw_dna_data.csv_** fájlt helyezd a GenEM mappába, mert a program innen olvassa be az elemzéshez szükséges adatokat.  
+Az egyes panelek kiértékelésének eredményeit a program automatikusan **.txt formátumban** menti a GenEM mappába.
 
 ---
+
+## ⚠️ Adatbiztonsági figyelmeztetés
+
+A GenEM rendkívül érzékeny személyes adatokkal dolgozik, mivel a RAW DNA fájlok genetikai információkat tartalmaznak.  
+A program **teljes mértékben offline működik**, nem küld adatot semmilyen szerverre, és nem kapcsolódik az internethez.
+
+Kérjük, különösen figyelj oda arra, hogy:
+- a személyes _raw_dna_data.csv_ fájlt csak te kezeld,
+- a fájlt biztonságos helyen tartsd,
+- ne oszd meg másokkal,
+- csak saját gépen futtasd a GenEM-et.
+
+A GenEM által mentett .txt eredmények szintén személyes adatnak minősülnek, ezért kezeld őket körültekintően.
 
 ## ❤️ Támogatás / Szponzoráció
 
