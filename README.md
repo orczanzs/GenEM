@@ -145,7 +145,7 @@ Your support helps me continue improving the project, adding new features, and k
 
 If you like what I'm building and want to support me, you can do it here:
 
-👉 **Buy Me a Coffee:** https://buymeacoffee.com/orczanaz  
+👉 **Buy Me a Coffee:** https://buymeacoffee.com/orczanz  
 👉 **Revolut:** https://revolut.me/orczanz
 
 Thank you for considering supporting the project!
