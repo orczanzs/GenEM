@@ -267,6 +267,52 @@ Ezért különösen fontos:
 
 A program célja személyes önismeret és ismeretterjesztés.
 Nem orvosi diagnózis.
+## 🛠 Telepítés
+
+A GenEM telepítése Windows alatt egyszerű és gyors.
+
+### 1. A program letöltése
+Töltsd le a GenEM projektet a GitHubról:
+
+1. Nyisd meg a projekt oldalát.
+2. Kattints a **Code → Download ZIP** gombra.
+3. Csomagold ki a ZIP fájlt.
+
+A kicsomagolt mappát nevezd át **GenEM**-re, majd **helyezd az Asztalra**.  
+Ez a legegyszerűbb módja annak, hogy a program mindig könnyen elérhető legyen.
+
+### 2. Python telepítése
+A GenEM működéséhez Python 3.10 vagy újabb szükséges.  
+Letöltés: https://www.python.org/downloads/
+
+Telepítéskor pip-et is engedélyezd.
+
+### 3. A GenEM indítása Windows alatt
+
+A GenEM kétféleképpen indítható:
+
+#### 1) indit.bat – automatikus parancsikon létrehozással
+Az `indit.bat` fájl a következőket végzi:
+- elindítja a GenEM programot,
+- létrehoz egy parancsikont az Asztalon,
+- az Asztalon megjelenő ikonnal később egy kattintással indítható a GenEM.
+
+Használat:
+1. Nyisd meg az Asztalon lévő **GenEM** mappát.
+2. Kattints duplán az `indit.bat` fájlra.
+3. A program elindul.
+4. Az Asztalon megjelenik egy új ikon: **GenEM**.
+5. Innentől kezdve a GenEM egy kattintással indítható az ikonról.
+
+#### 2) genem.bat – közvetlen indítás a mappából
+A GenEM a mappából is indítható a `genem.bat` fájlra kattintva.
+
+Használat:
+1. Nyisd meg az Asztalon lévő **GenEM** mappát.
+2. Kattints duplán a `genem.bat` fájlra.
+3. A program azonnal elindul.
+
+Ez a módszer azoknak kényelmes, akik nem szeretnének parancsikont használni.
 
 ---
 
