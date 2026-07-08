@@ -339,6 +339,6 @@ A támogatásod segít abban, hogy tovább fejlesszem a programot, új funkciók
 
 ## Support ....  akár egy kávé árával
 👉 **Buy Me a Coffee:** https://buymeacoffee.com/orczanz  
-👉 **Revolut:** https://revolut.me/orczanz
-Köszönöm, hogy fontolóra veszed a projekt támogatását!
+👉 **Revolut:** https://revolut.me/orczanz## 
+❤️ Támogatás / Köszönöm, hogy fontolóra veszed a projekt támogatását!
 
