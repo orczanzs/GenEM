@@ -338,7 +338,7 @@ Ha hasznosnak találod a GenEM rendszert, és szeretnéd támogatni a fejleszté
 A támogatásod segít abban, hogy tovább fejlesszem a programot, új funkciókat adjak hozzá, és folyamatosan naprakészen tartsam a rendszert.
 
 ## Support ....  akár egy kávé árával
-👉 **Buy Me a Coffee:** https://buymeacoffee.com/orczanaz  
+👉 **Buy Me a Coffee:** https://buymeacoffee.com/orczanz  
 👉 **Revolut:** https://revolut.me/orczanz
 Köszönöm, hogy fontolóra veszed a projekt támogatását!
 
