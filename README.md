@@ -1,6 +1,8 @@
 # GenEM
 Genetic analysis toolkit – first working version
 # 📘 Genetic Predisposition Analysis Panel System – Three‑Level Knowledge Framework
+## 🇭🇺 Magyar leírás
+👉 [Kattints ide a magyar verzióhoz](OlvassEl.md)
 
 This program is a fully offline genetic analysis system designed to interpret various predispositions and traits from MyHeritage RAW DNA files.
 
