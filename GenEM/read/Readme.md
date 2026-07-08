@@ -1,6 +1,8 @@
 # GenEM
 
-[🇬🇧 English README](README.md) | [🇭🇺 Magyar OlvassEl](OlvassEl.md)
+[🇬🇧 English README](README.md)
+## 🇭🇺 Magyar leírás
+👉 [Kattints ide a magyar verzióhoz](GenEM/read/OlvassEl.md)
 
 # 📘 Genetic Predisposition Analysis Panel System – Three‑Level Knowledge Framework
 
