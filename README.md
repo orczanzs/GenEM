@@ -131,7 +131,4 @@ This follows the principles of polygenic risk scoring.
 ⚠️ RAW DNA files contain highly sensitive personal genetic information. Handle them securely and never share without explicit permission.
 
 The program is intended for personal insight and education. It is not a medical diagnostic tool.
-
----
-
-[English README](README.md) | [Magyar OlvassEl](OlvassEl.md)
+👉 [Kattints ide a magyar verzióhoz](GenEM/read/OlvassEl.md)
