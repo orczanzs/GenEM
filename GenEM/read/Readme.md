@@ -48,16 +48,7 @@ The final output provides:
 - clear explanations  
 - practical interpretations  
 - easy‑to‑understand summaries  
-
 ---
-
-## 🖥️ Usage
-
-### **Windows**
-Run:
-
----
-
 ## ❤️ Support / Sponsorship
 
 If you find GenEM useful and would like to support its development, you can become a sponsor.
