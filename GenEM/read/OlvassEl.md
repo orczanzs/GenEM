@@ -337,7 +337,8 @@ Ha hasznosnak találod a GenEM rendszert, és szeretnéd támogatni a fejleszté
 
 A támogatásod segít abban, hogy tovább fejlesszem a programot, új funkciókat adjak hozzá, és folyamatosan naprakészen tartsam a rendszert.
 
-👉 A GitHub Sponsors oldal hamarosan elérhető lesz.
-
+## Support ....  akár egy kávé árával
+👉 **Buy Me a Coffee:** https://buymeacoffee.com/orczanaz  
+👉 **Revolut:** https://revolut.me/orczanz
 Köszönöm, hogy fontolóra veszed a projekt támogatását!
 
