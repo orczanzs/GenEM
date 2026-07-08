@@ -1,4 +1,4 @@
-# 📘 Genetikai  Ellemző Műszerfal GenEM 
+# 📘 Genetikai  Ellemző Műszerfal 
 # 📘 GenEM
 # 📘 Genetikai Hajlam  Ellemző Panelrendszer – Háromszintű Tudásrendszer
 
