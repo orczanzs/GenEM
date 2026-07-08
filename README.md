@@ -140,7 +140,6 @@ If you find GenEM useful and would like to support its development, you can beco
 
 Your support helps me continue improving the project, adding new features, and keeping everything up to date.
 
-👉 GitHub Sponsors page will be available soon.
 ## Support my work
 
 If you like what I'm building and want to support me, you can do it here:
