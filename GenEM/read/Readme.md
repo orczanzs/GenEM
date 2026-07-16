@@ -1,9 +1,11 @@
 # GenEM
-## 🇭🇺 Magyar:  Genetikai Elemző Műszerfal
+## 🇭🇺 Magyar:  Genetikai Elemző Műszerfal 
+In memoriam Orczán Csaba Sándor (1948-2026)
+
+
 
 # 📘 Genetic Predisposition Analysis Panel System – Three‑Level Knowledge Framework
 This program is a fully offline genetic analysis system designed to interpret various predispositions and traits from **MyHeritage RAW DNA files**.
-
 Its goal is to present genetic patterns in a clear, understandable way, showing how they may influence:
 
 
@@ -13,7 +15,7 @@ Its goal is to present genetic patterns in a clear, understandable way, showing 
 - and overall biological functioning  
 
 The system is built on a **three‑level knowledge framework**, combining scientific literature, phenotype correlations, and practical interpretation layers.
- In memoriam Orczán Csaba Sándor (1948-2026)
+ 
 
 ---
 
