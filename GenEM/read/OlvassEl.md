@@ -334,6 +334,7 @@ Kérjük, különösen figyelj oda arra, hogy:
 - csak saját gépen futtasd a GenEM-et.
 
 A GenEM által mentett .txt eredmények szintén személyes adatnak minősülnek, ezért kezeld őket körültekintően.
+
 A GeNM projekt bátyám Orczán Csaba Sándor (1948-2026) emlékére készült, aki elsőként vont ki DNS-t egy nem teljesen megkövült őslénytani leletből.
 
 ## ❤️ Támogatás / Szponzoráció
