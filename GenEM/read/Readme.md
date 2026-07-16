@@ -14,7 +14,7 @@ Its goal is to present genetic patterns in a clear, understandable way, showing 
 - and overall biological functioning  
 
 The system is built on a **three‑level knowledge framework**, combining scientific literature, phenotype correlations, and practical interpretation layers.
-In memoriaam Orczán Csaba Sándor (1948-2026)
+# In memoriam Orczán Csaba Sándor (1948-2026)
 
 ---
 
