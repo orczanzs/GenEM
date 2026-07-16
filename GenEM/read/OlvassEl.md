@@ -1,5 +1,7 @@
 # 📘 Genetikai  Ellemző Műszerfal  📘 GenEM
-# 📘 Genetikai Ellemző Panelrendszer – Háromszintű Tudásrendszer
+# 📘 Genetikai Ellemző Panelrendszer – Háromszintű Tudásrendszer 
+In memoriam Orczán Csaba Sándor (1948-2026) 
+
 
 Ez a program egy teljesen offline működő, magyar nyelvű genetikai
 elemző rendszer, amely MyHeritage RAW DNA fájlokból képes különböző
