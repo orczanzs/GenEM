@@ -2,7 +2,7 @@
 ## 🇭🇺 Magyar:  Genetikai Elemző Műszerfal
 
 # 📘 Genetic Predisposition Analysis Panel System – Three‑Level Knowledge Framework
-
+In memoriam Orczán Csaba Sándor (1948-2026)
 This program is a fully offline genetic analysis system designed to interpret various predispositions and traits from **MyHeritage RAW DNA files**.
 In memoriaam Orczán Csaba Sándor (1948-2026)
 Its goal is to present genetic patterns in a clear, understandable way, showing how they may influence:
