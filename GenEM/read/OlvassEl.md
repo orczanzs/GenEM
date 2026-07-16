@@ -225,9 +225,9 @@ Ez a módszer megfelel a modern genetikai rizikóbecslés
 
 # 🧬 DNS-elemző rendszer – Bevezetés és alapinformációk
 
-==========================================
+======================================
 ADATBIZTONSÁG!
-===========================================
+=======================================
 
 
 
