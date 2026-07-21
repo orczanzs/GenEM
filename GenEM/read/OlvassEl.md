@@ -7,7 +7,7 @@ Ez a program egy teljesen offline működő, magyar nyelvű genetikai
 elemző rendszer, amely MyHeritage RAW DNA fájlokból képes különböző
 genetikai hajlamokat és tulajdonságokat értelmezni.
 A GenEM projekt bátyám Orczán Csaba Sándor (1948-2026) emlékére készült,
-aki elsőként vont ki DNS-t egy nem teljesen megkövült őslénytani leletből.
+aki elsők között vont ki DNS-t egy nem teljesen megkövült őslénytani leletből.
 
 
 A rendszer célja, hogy mindenki számára érthető módon mutassa be,
