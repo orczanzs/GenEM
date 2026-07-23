@@ -3,26 +3,18 @@
 ============================================================
  FŐMENÜ – GENETIKAI PANEL PROJEKT
 ------------------------------------------------------------
- Ez a program egységes belépési pontként szolgál minden panelhez.
- A paneleket külön .py fájlok tartalmazzák, mindegyik saját
- run() függvénnyel.
-
- Új panel hozzáadása:
- 1) Hozz létre egy új .py fájlt (pl. Magassag_panel.py)
- 2) A fájlban legyen egy run() függvény
- 3) Itt a main.py-ben add hozzá a PANELS listához:
-
-    ("Magasság panel", "Magassag_panel")
-
- Ennyi. A rendszer automatikusan működni fog.
+ Wrapper megoldással: minden panel futása után az újonnan
+ létrehozott fájlok automatikusan az 'eredmeny' mappába kerülnek.
 ============================================================
 """
 
 import importlib
+import os
+import shutil
 
 # ============================================================
 # PANEL LISTA – IDE KELL HOZZÁADNI AZ ÚJ PANELEKET
-# ==========================================================
+# ============================================================
 PANELS = [
     ("Laktóz intolerancia panel", "Lactose_panel"),
     ("Hisztamin érzékenység panel", "Histamin_panel"),
@@ -30,11 +22,9 @@ PANELS = [
     ("Bőr tulajdonságok panel", "Bor_tulajdonsagok_panel"),
     ("Haj tulajdonságok panel", "Haj_tulajdonsagok_panel"),
     ("Szem tulajdonságok panel", "Szem_tulajdonsagok_panel"),
-    # ÚJ PANELT IDE ÍRSZ BE:
-    # ("Panel neve", "Fajl_neve_kiterjesztes_nelkul")
-    ("Magasság Elhizás BMI ", "Magassag_Elhizas_panel"),
-    ("Öregedési Hajlam" , "Oregedesi_hajlam_panel"),
-    ("Sportolási Hajlam" , "Sport_hajlam_panel"),
+    ("Magasság Elhizás BMI", "Magassag_Elhizas_panel"),
+    ("Öregedési Hajlam", "Oregedesi_hajlam_panel"),
+    ("Sportolási Hajlam", "Sport_hajlam_panel"),
     ("Izület Hajlam", "Izuleti_hajlam_panel"),
 ]
 
@@ -65,8 +55,37 @@ def main():
                 print(f"\n📌 {panel_name} betöltése...\n")
 
                 module = importlib.import_module(module_name)
+
+                # ============================================================
+                # WRAPPER – ÚJ FÁJLOK AUTOMATIKUS ÁTHELYEZÉSE
+                # ============================================================
+
+                OUTPUT_DIR = "eredmeny"
+                os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+                # Fájlok listája a panel futása előtt
+                before_files = set(os.listdir("."))
+
+                # Panel futtatása
                 module.run()
+
+                # Fájlok listája a panel futása után
+                after_files = set(os.listdir("."))
+
+                # Új fájlok meghatározása
+                new_files = after_files - before_files
+
+                # Áthelyezés az eredmeny mappába
+                for f in new_files:
+                    src = os.path.join(".", f)
+                    dst = os.path.join(OUTPUT_DIR, f)
+                    if os.path.isfile(src):
+                        shutil.move(src, dst)
+                        print(f"📁 Áthelyezve: {f} → {OUTPUT_DIR}/")
+
+                print("\n✔️ Minden új fájl átmozgatva az 'eredmeny' mappába.\n")
                 return
+
             else:
                 print("Érvénytelen választás.")
         except ValueError:
